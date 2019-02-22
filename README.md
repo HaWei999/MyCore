@@ -1,0 +1,2 @@
+# MyCore
+TestCore
